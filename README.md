@@ -12,7 +12,7 @@ Overall, the project aims to leverage data-driven approaches to improve operatio
 
 
 
-The Supermarket Sales Prediction project offers several key insights:
+This project offers several key insights:
 
 1. **Data-Driven Decision Making:** By utilizing historical sales data, supermarkets can make informed decisions that enhance operational efficiency and profitability.
 
