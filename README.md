@@ -9,6 +9,9 @@ The main goal of this Project is to develop a machine learning model that accura
 4. **Analyze Sales Trends:** Understand patterns in sales data over time, helping to identify seasonal variations and consumer behavior.
 
 Overall, the project aims to leverage data-driven approaches to improve operational efficiency and profitability in the supermarket sector.
+
+
+
 The Supermarket Sales Prediction project offers several key insights:
 
 1. **Data-Driven Decision Making:** By utilizing historical sales data, supermarkets can make informed decisions that enhance operational efficiency and profitability.
